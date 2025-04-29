@@ -1,3 +1,3 @@
-Yes ofc I'm gonna store the notes in a GitHub repo since I'm such a nerd. I could have used a blog page to do all thi, but this way it stays a bit more private and better organized. On top of that I get to maybe even promote obsidian a bit which I find absolutley amazing (go download it for yourself!).
+Yes ofc I'm gonna store the notes in a GitHub repo since I'm such a nerd. I could have used a blog page to do all this, but this way it stays a bit more private and better organized. On top of that I get to maybe even promote obsidian a bit which I find absolutley amazing (go download it for yourself!).
 For those unfamiliar with Git, you can either clone the repository (just make sure you have Git installed firsthand) or save the folder in a zipped file. You can read them in any text editor since it's all just plain text, but it is way better to open them using Obsidian and get all the cool linked features.
 Happy reading!
