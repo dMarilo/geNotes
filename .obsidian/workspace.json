@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Songs/I'm the Problem (Morgan Wallen).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "I'm the Problem (Morgan Wallen)"
             }
           }
         ],
@@ -210,12 +210,14 @@
   },
   "active": "075ff441408b91d3",
   "lastOpenFiles": [
+    "Pics/WhatsApp Bild 2025-04-29 um 19.41.34_6de6c8e5.jpg",
+    "Pics",
+    "Songs/I'm the Problem (Morgan Wallen).md",
+    "README.md",
     "Songs/Weekly top 10",
     "Songs/Untitled.md",
-    "README.md",
     "Thoughts/Master thought.md",
     "Songs/Master Song.md",
-    "Songs/I'm the Problem (Morgan Wallen).md",
     "Thoughts/Spotify vs Apple music.md",
     "Movies/Underground.md",
     "Movies/Master Movie.md",
